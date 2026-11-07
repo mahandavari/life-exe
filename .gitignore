@@ -1,0 +1,17 @@
+node_modules/
+dist-pages/
+dist/
+coverage/
+*.tsbuildinfo
+*.log
+.env*
+!.env.example
+.dev.vars*
+*.pem
+*.key
+outputs/
+.sites-runtime/
+.wrangler/
+.openai/
+.DS_Store
+Thumbs.db
